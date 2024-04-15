@@ -1,2 +1,2 @@
 # gerrit-repo
-learning gerrit
+Learning Gerrit

@@ -1,2 +1,3 @@
 # gerrit-repo
-learning gerrit
+Learning Gerrit
+Adding new Changes
